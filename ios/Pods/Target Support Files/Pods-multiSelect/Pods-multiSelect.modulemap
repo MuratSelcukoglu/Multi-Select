@@ -1,0 +1,6 @@
+module Pods_multiSelect {
+  umbrella header "Pods-multiSelect-umbrella.h"
+
+  export *
+  module * { export * }
+}
