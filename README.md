@@ -22,6 +22,7 @@ react-native run-ios
 ```
 
 ## Screens
-
-<img src="./images/1.png" alt="Screens" width="250">
+<div>
 <img src="./images/2.png" alt="Screens" width="250">
+<img src="./images/1.png" alt="Screens" width="250">
+</div>
